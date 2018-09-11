@@ -1,10 +1,14 @@
 # Ellia Gabbro
-Female Wind-mar
 
-Current Location:  Deceased
+## Basic
+Female Wind-mar
+Commoner 1
+Deceased
 
 ## About
 
-Ellia Gabbro was the daughter of Tellius Gabbro.  She was killed by Maaria Vesti, Sister of Tuuli Vesti in order to get close to her father and kill him.
+Ellia Gabbro was the daughter of Tellius Gabbro.
+
+During the Festival of Fire, it came to light that Ellia Gabbro was killed and impersonated by Maaria Vesti.
 
 ## Notes
