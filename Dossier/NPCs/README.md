@@ -1,4 +1,4 @@
-#NPCs
+# NPCs
 
 This section has a file on every NPC you have encountered so far.
 
