@@ -1,14 +1,11 @@
 # Name
 
 ## Basic
-
 Gender Race
-Class Level
-Location Allegiance
+Class
+Location/Organization
 
 ## About
-
-Description
 
 ## Notes
 
